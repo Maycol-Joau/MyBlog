@@ -79,3 +79,46 @@ header{
     border-radius: 5px 5px 0px 0px;
     padding: 10px;
 }
+.imagen {
+    width: 50%;
+    height: 50%;
+    display: block; margin: 0 auto;
+}
+.Principal {
+    font-size: 32px;
+    font-family: Verdana, Calibri, sans-serif;
+    color: #F00;
+}
+.subTitulos{
+    font-size: 24px;
+    font-family: Verdana, Calibri, sans-serif;
+    color: #A00;
+}
+.datLista{
+    color: #060;
+}
+.int{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: #6b6060;
+}
+.Hyper{
+    color: white;
+    background-color: #000;
+    font-family: cursive;
+}
+.box-model{
+    margin: 0 auto;
+    text-align: center;
+    border: 15px solid #c00;
+    background-color: blue;
+    width: 50%;
+    display:  block;
+
+}
+.caja1{
+    border: 9px solid #98A4A5;
+    background-color: yellow;
+    margin: 2%;
+}
